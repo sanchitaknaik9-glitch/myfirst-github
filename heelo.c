@@ -6,4 +6,7 @@ void main(){
     printf("Value of a: %d", a);
     printf("this is sru ans san added the work");
     printf("this is new commit");
+
+    printf("New feature added");
+    
 }
